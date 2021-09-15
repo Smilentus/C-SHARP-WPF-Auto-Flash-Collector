@@ -1,0 +1,10 @@
+A:\Projects\AutoFlashCollector\AutoFlashCollector\bin\Debug\AutoFlashCollector.exe.config
+A:\Projects\AutoFlashCollector\AutoFlashCollector\bin\Debug\AutoFlashCollector.exe
+A:\Projects\AutoFlashCollector\AutoFlashCollector\bin\Debug\AutoFlashCollector.pdb
+A:\Projects\AutoFlashCollector\AutoFlashCollector\obj\Debug\AutoFlashCollector.Form1.resources
+A:\Projects\AutoFlashCollector\AutoFlashCollector\obj\Debug\AutoFlashCollector.Properties.Resources.resources
+A:\Projects\AutoFlashCollector\AutoFlashCollector\obj\Debug\AutoFlashCollector.csproj.GenerateResource.cache
+A:\Projects\AutoFlashCollector\AutoFlashCollector\obj\Debug\AutoFlashCollector.csproj.CoreCompileInputs.cache
+A:\Projects\AutoFlashCollector\AutoFlashCollector\obj\Debug\AutoFlashCollector.exe
+A:\Projects\AutoFlashCollector\AutoFlashCollector\obj\Debug\AutoFlashCollector.pdb
+A:\Projects\AutoFlashCollector\AutoFlashCollector\obj\Debug\AutoFlashCollector.csprojAssemblyReference.cache
